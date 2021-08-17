@@ -10,7 +10,10 @@ namespace rebasetest
     {
         public void Method0()
         {
+        }
 
+        public void Method1()
+        {
         }
     }
 }
