@@ -17,5 +17,10 @@ namespace rebasetest
         {
             //  Added after Feature1 branched from Main
         }
+
+        public void Method3()
+        {
+            //  Added by bob/dbarber042 after Merge Request1
+        }
     }
 }
