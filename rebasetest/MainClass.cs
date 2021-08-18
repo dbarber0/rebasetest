@@ -12,5 +12,10 @@ namespace rebasetest
         {
             //  Added after Feature0 branched from Main
         }
+
+        public void Method2()
+        {
+            //  Added after Feature1 branched from Main
+        }
     }
 }
