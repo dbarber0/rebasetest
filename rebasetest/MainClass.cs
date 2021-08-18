@@ -7,5 +7,10 @@ namespace rebasetest
         {
             //  Added in the intial commit after project creation
         }
+
+        public void Method1()
+        {
+            //  Added after Feature0 branched from Main
+        }
     }
 }
