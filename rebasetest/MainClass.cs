@@ -6,6 +6,7 @@ namespace rebasetest
         public void Method0()
         {
             //  Added in the intial commit after project creation
+            //  Modified after Bob Commit0
         }
 
         public void Method1()
