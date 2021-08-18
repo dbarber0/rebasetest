@@ -11,6 +11,7 @@ namespace rebasetest
         public void Method0()
         {
             //  Added as part of first commit to branch Feature1
+            //  Modified and committed after merge request created but before merged
         }
     }
 }
