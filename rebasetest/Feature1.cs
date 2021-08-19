@@ -17,6 +17,7 @@ namespace rebasetest
         public void Method1()
         {
             //  Added as part of Bob-Commit2
+            //  Modified as part of Bob-Commit3
         }
     }
 }
