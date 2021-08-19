@@ -13,5 +13,10 @@ namespace rebasetest
             //  Added as part of first commit to branch Feature1
             //  Modified and committed after merge request created but before merged
         }
+
+        public void Method1()
+        {
+            //  Added as part of Bob-Commit2
+        }
     }
 }
