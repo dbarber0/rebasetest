@@ -14,5 +14,10 @@ namespace rebasetest
         {
             //  Added by dennis in Timeline-Commit2
         }
+
+        public void Method0()
+        {
+            //  Added by BoB in Timeline-Commit2
+        }
     }
 }
