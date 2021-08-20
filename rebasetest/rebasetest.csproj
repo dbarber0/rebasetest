@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BTTF.cs" />
     <Compile Include="Feature0.cs" />
     <Compile Include="Feature1.cs" />
     <Compile Include="Feature2.cs" />
