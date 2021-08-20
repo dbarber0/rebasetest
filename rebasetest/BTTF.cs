@@ -9,5 +9,10 @@ namespace rebasetest
     class BTTF
     {
         //  Added in Timeline-Commit0. Removed comment on class in Timeline-Commit1
+
+        public void Method0()
+        {
+            //  Added by BoB in Timeline-Commit2
+        }
     }
 }
