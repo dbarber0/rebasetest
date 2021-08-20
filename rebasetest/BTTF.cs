@@ -15,5 +15,10 @@ namespace rebasetest
         {
             //  Added in BTTF-Commit2
         }
+
+        public void MethodBTTF1()
+        {
+            //  Added in BTTF-Commit3
+        }
     }
 }
