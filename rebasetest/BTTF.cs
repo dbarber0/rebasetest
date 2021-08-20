@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace rebasetest
 {
-    //  Added in BTTF-Commit0
     class BTTF
     {
-        //  Added in Timeline-Commit0
+        //  Added in Timeline-Commit0. Removed comment on class in Timeline-Commit1
     }
 }
