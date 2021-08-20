@@ -9,5 +9,6 @@ namespace rebasetest
     //  Added in BTTF-Commit0
     class BTTF
     {
+        //  Added in BTTF-Commit1
     }
 }
