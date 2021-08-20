@@ -12,5 +12,10 @@ namespace rebasetest
         {
             //  Added in LongRunningBranch-Commit1
         }
+
+        public void LRBMethod2()
+        {
+            //  Added in LongRunningBranch-Commit2
+        }
     }
 }
