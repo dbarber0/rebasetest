@@ -7,5 +7,10 @@ namespace rebasetest
         {
             //  Added in second commit to branch dab
         }
+
+        public void DAB1()
+        {
+            //  Added in firstd commit to branch dab1
+        }
     }
 }
