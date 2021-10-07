@@ -14,6 +14,7 @@ namespace rebasetest
 
         public void Method1()
         {
+            //  Added a non-conflicting (with branch dab) change
         }
     }
 }
