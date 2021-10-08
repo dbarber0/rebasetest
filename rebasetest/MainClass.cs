@@ -3,7 +3,7 @@ namespace rebasetest
 {
     class MainClass
     {
-        public void Method0()
+        public void Commit0()
         {
         }
     }

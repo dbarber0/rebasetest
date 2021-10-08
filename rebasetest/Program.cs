@@ -6,7 +6,6 @@ namespace rebasetest
         static void Main(string[] args)
         {
             MainClass mc = new MainClass();
-            mc.Method0();
         }
     }
 }
