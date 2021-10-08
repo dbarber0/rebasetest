@@ -42,12 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BTTF.cs" />
-    <Compile Include="dab.cs" />
-    <Compile Include="Feature0.cs" />
     <Compile Include="Feature1.cs" />
-    <Compile Include="Feature2.cs" />
-    <Compile Include="LongRunningBranch.cs" />
     <Compile Include="MainClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
